@@ -1,8 +1,8 @@
-### Coop bank leasing calculator e2e tests
+## Coop bank leasing calculator e2e tests
 
 Implemented using https://www.cypress.io
 
-####Installimine
+###Installimine
 ```git clone https://github.com/TriinSagur/cooppank.git```
 
 ```cd cooppank```
@@ -10,13 +10,16 @@ Implemented using https://www.cypress.io
 ```npm install cypress```
 
 
-####Jooksutamine
+###Jooksutamine
 
-######UI-ga
+####UI-ga
+
 ```./node_modules/.bin/cypress open```
 
-![](Screenshot_2022-10-05 000806.png)
+![](img/Screenshot_2022-10-05%20000806.png)
 
-######Käsurealt
+####Käsurealt
+
 ```node_modules\\.bin\\cypress run```
-![](Screenshot_2022-10-05 000807.png)
+
+![](img/Screenshot_2022-10-05%20000807.png)
