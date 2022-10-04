@@ -2,7 +2,7 @@
 
 Implemented using https://www.cypress.io
 
-###Installimine
+### Installimine
 
 ```git clone https://github.com/TriinSagur/cooppank.git```
 
@@ -11,15 +11,15 @@ Implemented using https://www.cypress.io
 ```npm install cypress```
 
 
-###Jooksutamine
+### Jooksutamine
 
-####UI-ga
+#### UI-ga
 
 ```./node_modules/.bin/cypress open```
 
 ![](img/Screenshot_2022-10-05%20000806.png)
 
-####Käsurealt
+#### Käsurealt
 
 ```node_modules\\.bin\\cypress run```
 
