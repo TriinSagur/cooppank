@@ -3,6 +3,7 @@
 Implemented using https://www.cypress.io
 
 ###Installimine
+
 ```git clone https://github.com/TriinSagur/cooppank.git```
 
 ```cd cooppank```
