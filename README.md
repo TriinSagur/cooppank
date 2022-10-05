@@ -21,6 +21,6 @@ Implemented using https://www.cypress.io
 
 #### Käsurealt
 
-```node_modules\\.bin\\cypress run```
+```./node_modules/.bin/cypress run```
 
-![](img/Screenshot_2022-10-05%20000807.png)
+![](img/Screenshot_2022-10-05 081949.png)
