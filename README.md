@@ -17,10 +17,11 @@ Implemented using https://www.cypress.io
 
 ```./node_modules/.bin/cypress open```
 
-![](img/Screenshot_2022-10-05%20000806.png)
+![](img/Screenshot_2022-10-05 000806.png)
 
 #### Käsurealt
 
 ```./node_modules/.bin/cypress run```
 
 ![](img/Screenshot_2022-10-05 081949.png)
+
